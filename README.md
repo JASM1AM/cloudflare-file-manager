@@ -142,8 +142,6 @@ MIT License — 可自由使用、修改和分发
 
 📸 **界面预览：**
 
-:::picture
 ![Astro主题-vhAstro-Theme](https://img.jasmiam.top/v2/CnJtItN.jpeg)
 ![Astro主题-vhAstro-Theme](https://img.jasmiam.top/v2/uP1am9E.jpeg)
 ![Astro主题-vhAstro-Theme](https://img.jasmiam.top/v2/zJbJWxM.jpeg)
-:::
